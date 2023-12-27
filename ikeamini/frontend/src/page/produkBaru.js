@@ -83,8 +83,8 @@ const Produkbaru = () => {
           <option value={"perabotan"}>Perabotan</option>
           <option value={"ruangkerja"}>Ruang kerja</option>
           <option value={"teras"}>Teras</option>
-          <option value={"dapur"}>Aksesoris dapur</option>
-          <option value={"laundry"}>Aksesoris laundry</option>
+          <option value={"dapur"}>Dapur</option>
+          <option value={"laundry"}>laundry</option>
         </select>
 
         <label htmlFor='image'>Gambar

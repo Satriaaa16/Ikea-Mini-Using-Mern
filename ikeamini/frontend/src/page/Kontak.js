@@ -13,16 +13,58 @@ const Kontak = () => {
     {
       id: 2,
       nama: 'Muhamad Muslih',
-      gambar: require('./foto anggota/3337220025.jpg'),
+      gambar: require('./foto anggota/3337220025_Muhamad Muslih.jpg'),
       posisi: 'Mobile Developer',
-      NIM: '33372200',
+      NIM: '3337220025',
     },
     {
       id: 3,
-      nama: 'Muhamad Mansurudin',
-      gambar: require('./foto anggota/3337220005.png'), // Update this with the correct path
+      nama: 'M Maulana Mansurudin',
+      gambar: require('./foto anggota/3337220008_M Maulana Mansurudin.png'),
       posisi: 'Web Developer',
-      NIM: '33372200',
+      NIM: '3337220008',
+    },
+    {
+      id: 4,
+      nama: 'Fandi Febrian W',
+      gambar: require('./foto anggota/3337220063_Fandi Febrian W.jpg'),
+      posisi: 'Web Developer',
+      NIM: '3337220063',
+    },
+    {
+      id: 5,
+      nama: 'M. Syafiq Agil',
+      gambar: require('./foto anggota/3337220005_M. Syafiq Agil.png'),
+      posisi: 'Web Developer',
+      NIM: '3337220005',
+    },
+    {
+      id: 6,
+      nama: 'Ajriyatussururi Putri M',
+      gambar: require('./foto anggota/3337220085_Ajriyatussururi Putri Maharani.jpg'),
+      posisi: 'Mobile Developer',
+      NIM: '3337220085',
+    },
+    {
+      id: 7,
+      nama: 'Zahra Ayu Rimbani',
+      gambar: require('./foto anggota/3337220020_Zahra Ayu Rimbani.jpg'),
+      posisi: 'Mobile Developer',
+      NIM: '3337220020',
+    },
+    {
+      id: 8,
+      nama: 'Atha Nabil Aqila',
+      gambar: require('./foto anggota/3337220093_Atha Nabil Aqila.jpg'),
+      posisi: 'Web Developer',
+      NIM: '3337220093',
+    },
+    {
+      id: 9,
+      nama: 'Dayu Ratma Wijaya',
+      gambar: require('./foto anggota/3337220104_Dayu Ratma Wijaya.png'),
+      posisi: 'Web Developer',
+      NIM: '3337220104',
     },
     // ...
   ];
