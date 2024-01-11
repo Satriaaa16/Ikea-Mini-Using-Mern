@@ -1,9 +1,12 @@
 import { createSlice} from "@reduxjs/toolkit";
 
+
+
 const initialState = {
     productList :  [],
     cartItems : []
 }
+
 
 export const productSlice = createSlice({
     name : "product",
@@ -19,6 +22,7 @@ export const productSlice = createSlice({
         deleteCartItem : (state,action)=>{
 
         }
+        
     }
 
 })

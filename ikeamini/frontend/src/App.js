@@ -18,7 +18,7 @@ function App() {
       console.log(resData)
       dispatch(setDataProduct(resData))
     })()
-  },[])
+  },)
 
   console.log(productData)
    
@@ -34,7 +34,7 @@ function App() {
        </main>
     </div>
     </>
-  
+   
   );
 }
 
